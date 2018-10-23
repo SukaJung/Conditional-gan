@@ -5,7 +5,7 @@
 >cgan_convolution.py : mnist with convolution layer  
 >cgan_ani.py : dog and cata dataset with convoltion layer  
 
-result  
+#Result  
 
 mnist :  
 
