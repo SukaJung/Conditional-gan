@@ -3,10 +3,10 @@
 
 * dataset : mnist, dog and cat dataset  
 * cgan.py : mnist  
->num_latent_variable = 100
->num_hidden = 128
->batch_size = 64
->learning_rate = 0.0001
+>num_latent_variable = 100  
+>num_hidden = 128  
+>batch_size = 64  
+>learning_rate = 0.0001  
 
 * cgan_convolution.py : mnist with convolution layer  
 >dddd
