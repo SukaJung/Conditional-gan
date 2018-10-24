@@ -8,6 +8,6 @@
 
 #Result  
 
-mnist :  
+mnist : ![mnist image](./readme/cgan_mnist.gif) 
 
 dog and cat :  
