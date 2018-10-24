@@ -9,7 +9,12 @@
 >learning_rate = 0.0001  
 
 * cgan_convolution.py : mnist with convolution layer  
->dddd
+>generator 2 fc(fully connected layer), 2 convolution_transpose layers  
+discriminator 2 convolution layers and 2 fc(fully connected layer)  
+ngf,ndf = 64  
+num_latent_variable = 100  
+batch_size = 128  
+learning_rate = 0.0002  
 
 * cgan_ani.py : dog and cata dataset with convoltion layer  
 >ddddd
