@@ -17,7 +17,12 @@ __batch_size__ = 128
 __learning_rate__ = 0.0002  
 
 * cgan_ani.py : dog and cata dataset with convoltion layer  
->ddddd
+>__generator__ = 2 fc(fully connected layer), 4 convolution_transpose layers  
+__discriminator__ = 4 convolution layers and 2 fc(fully connected layer)  
+__ngf,ndf__ = 64  
+__num_latent_variable__ = 100  
+__batch_size__ = 128  
+__learning_rate__ = 0.0002  
 
 * preprocess_data : using pretrained image segmentation (deeplabv3 tesnorflow api) to remove background except animal   
 * table.pkl : filenames in dataset (pickle)
