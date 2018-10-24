@@ -9,8 +9,8 @@
 >learning_rate = 0.0001  
 
 * cgan_convolution.py : mnist with convolution layer  
->*generator* = 2 fc(fully connected layer), 2 convolution_transpose layers  
-*discriminator* = 2 convolution layers and 2 fc(fully connected layer)  
+>__generator__ = 2 fc(fully connected layer), 2 convolution_transpose layers  
+__discriminator__ = 2 convolution layers and 2 fc(fully connected layer)  
 ngf,ndf = 64  
 num_latent_variable = 100  
 batch_size = 128  
