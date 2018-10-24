@@ -1,4 +1,4 @@
-#Conditional-gan  
+<h1>Conditional-gan</h1>  
 
 * dataset : mnist, dog and cat dataset  
 * cgan.py : mnist  
@@ -8,6 +8,6 @@
 
 #Result  
 
-mnist : ![mnist image](./readme/cgan_mnist.gif)
+* mnist : ![mnist image](./readme/cgan_mnist.gif)
 
-dog and cat : ![dogcat image](./readme/cgan_dogcat.gif)
+* dog and cat : ![dogcat image](./readme/cgan_dogcat.gif)
