@@ -6,6 +6,7 @@
 * cgan_convolution.py : mnist with convolution layer  
 * cgan_ani.py : dog and cata dataset with convoltion layer  
 * preprocess_data : using pretrained image segmentation (deeplabv3 tesnorflow api) to remove background except animal   
+* table.pkl : filenames in dataset (pickle)
 
 <h2>Result</h2>  
 
